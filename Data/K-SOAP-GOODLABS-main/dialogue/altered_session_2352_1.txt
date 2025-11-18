@@ -1,0 +1,59 @@
+D: Good afternoon. I believe you're Ahmed Hassan, correct?
+P: Yes, that's me. How are you today, Dr. Rodriguez?
+D: I'm doing well, thank you for asking. Before we proceed, just to confirm, you're 45 years old, right?
+P: Yes, that's right.
+D: Great. Tell me, how have you been feeling overall?
+P: Not the best, to be honest. I've been dealing with some stomach issues for a while now.
+P: It's been about a month, I'd say.
+D: I see, I see. Could you describe these stomach issues to me in more detail?
+P: Sure, it started out as just a bit of nausea, but then I began experiencing some sharp abdominal pain, especially after meals. It's pretty persistent.
+D: Sharp pain, you say. Can you tell me exactly where it hurts?
+P: It's mainly in the upper part of my abdomen, right in the middle.
+D: Does the pain stay in that area, or does it spread out to other parts of your body?
+P: It mostly stays put, but sometimes there's this burning sensation that goes up towards my chest.
+D: That sounds quite uncomfortable. On a scale from 1 to 10, how would you rate this pain?
+P: I'd say it hovers around a 6 most of the time, but it can spike up to an 8 when it's really bad.
+D: Understood. Have you noticed anything that makes it worse or anything that relieves the pain?
+P: Eating definitely makes it worse, especially if I have anything greasy. I've tried antacids, which seem to help a little.
+D: Have you had this type of pain before, or is this a new occurrence for you?
+P: This is new for me. I've never had stomach problems like this before.
+D: Okay, that's good to know. Has this affected your ability to work or your daily life in general?
+P: Absolutely, I've had to take time off work, and I can't enjoy meals like I used to. It's really taken a toll on me.
+D: I'm sorry to hear that. Have you undergone any tests or seen anyone about this condition before coming here today?
+P: No, this is my first time seeking medical advice for this issue.
+D: All right, let's move on to your medical history. Any chronic illnesses or past hospitalizations?
+P: No, nothing chronic. I've been relatively healthy up until now.
+D: And what about allergies, Ahmed? Any that you know of?
+P: I'm allergic to penicillin.
+D: Noted. Are you up to date with your vaccinations, including the flu shot?
+P: I believe I am due for a flu shot, actually.
+D: We can certainly take care of that today. Any significant illnesses run in your family?
+P: My father had diabetes, but that's about it.
+D: Understood. Let's talk a bit about your personal life. What do you do for a living?
+P: I'm an accountant. I'm married with two children and enjoy reading as a hobby. I don't smoke, and I only drink socially.
+D: That's good to hear. How about your current medications, Ahmed?
+P: I take 500 mg of metformin daily for my blood sugar levels and a daily low-dose aspirin for heart health.
+D: All right. I'd like to do a complete review of systems. Any recent fever, chills, or unexplained weight loss?
+P: No, none of those.
+D: Any cold symptoms, like a runny nose or sore throat?
+P: No, nothing like that.
+D: Any chest pain or heart palpitations?
+P: No chest pain or anything unusual with my heart.
+D: How about your breathing? Any cough or shortness of breath?
+P: No issues with my breathing.
+D: Changes in urination or any blood in your urine?
+P: No changes there, everything seems normal.
+D: Any changes in your bowel habits, nausea besides what you've mentioned, vomiting, or abdominal pain?
+P: Just the nausea and abdominal pain I already told you about.
+D: Any dizziness, headaches, memory problems, or confusion?
+P: No, my head's been clear.
+D: Joint pains or muscle aches?
+P: No joint pains, just the stomach issues.
+D: Any problems with feeling too hot or too cold?
+P: No, I've been comfortable temperature-wise.
+D: Let's check your vitals. Your blood pressure is 130 over 85, pulse is at 68 beats per minute, temperature is 98.6 degrees Fahrenheit, and your respiration rate is 14 breaths per minute. You're not in any respiratory distress, and your affect is calm and cooperative. Your head and neck exam shows no redness or swelling. Eyes are PERRLA (pupils equal, round, reactive to light and accommodation). Cardiovascular exam reveals normal S1 and S2, no murmurs. Respiratory exam shows good air entry bilaterally, no wheezing. Abdomen is soft, non-tender with normoactive bowel sounds. Neurological exam indicates you're oriented to time, place, and person with intact short-term memory.
+D: Based on what you've told me and the exam findings, it sounds like you may have gastritis or a peptic ulcer. We'll need to run some tests, including blood work and possibly an endoscopy, to get a better look at what's going on. I'll prescribe a proton pump inhibitor to help with the acid and recommend you avoid spicy and greasy foods. I'd also like to refer you to a gastroenterologist for further evaluation. We'll schedule a follow-up appointment in two weeks to review the test results and see how you're responding to the medication. If your symptoms worsen significantly before then, or if you experience any vomiting blood or severe pain, go to the ER immediately.
+P: Thank you, Dr. Rodriguez. I appreciate your help.
+D: Of course, Ahmed. We'll do our best to get to the bottom of this and get you feeling better. I'll see you in two weeks, if not sooner.
+P: Sounds good. Thanks again.
+D: You're welcome. Take care.

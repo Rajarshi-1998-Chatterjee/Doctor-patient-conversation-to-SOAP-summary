@@ -1,0 +1,111 @@
+D: Good afternoon, Isabella. It's a pleasure to meet you. Please, come and have a seat. What brings you in today?
+
+P: Hi Dr. Khan, thank you for seeing me on short notice. I've been experiencing this tightness in my chest and it's been happening more frequently. It's really starting to worry me, especially since it's been accompanied by shortness of breath.
+
+D: I see. Before we proceed, may I know your age?
+
+P: I'm forty-two.
+
+D: Alright, Isabella. You mentioned chest tightness. Can you describe it for me? Is it a sharp pain or more of a pressure?
+
+P: It's like a squeezing sensation, right in the center of my chest. Sometimes it feels heavy. On a scale from one to ten, it's about a seven.
+
+D: And when did this symptom start? Has it been constant or does it come and go?
+
+P: It started a few months ago, but it's become more frequent over the past few weeks. It seems to get worse when I'm climbing stairs or carrying something heavy.
+
+D: Have you ever had this kind of symptom before?
+
+P: No, this is new for me.
+
+D: Has anything helped relieve the symptoms? Rest, perhaps?
+
+P: Yes, if I sit down and rest for a while, it usually gets better.
+
+D: And how is this affecting your daily life or work?
+
+P: It's starting to interfere with my job. I'm a teacher and sometimes I have to stop class because I can't catch my breath.
+
+D: Have you had any tests done for this condition before coming here?
+
+P: No, I haven't.
+
+D: Let's talk about your medical history. Any other health issues I should know about?
+
+P: I have type 2 diabetes, diagnosed about five years ago.
+
+D: Are you allergic to any medications?
+
+P: No known allergies.
+
+D: Are you up to date with your vaccinations, including the influenza vaccine?
+
+P: I believe I am due for my flu shot.
+
+D: Okay, we'll make sure to address that today. Can you tell me about your family's medical history?
+
+P: My mother has diabetes as well, and my uncle had a heart attack in his fifties.
+
+D: What about your personal life? Are you married, do you have children, and what do you do for fun?
+
+P: I'm married with two kids. We enjoy hiking on weekends, but I've had to cut back because of my symptoms. I don't smoke and I only drink occasionally.
+
+D: What medications are you currently taking?
+
+P: I'm on metformin, 500 mg twice a day.
+
+D: Let's go through a review of systems. Any fever, chills, or significant weight loss?
+
+P: No, none of those.
+
+D: Any nasal congestion, ear pain, or sore throat?
+
+P: No issues there.
+
+D: Chest pain, other than what you've described, or palpitations?
+
+P: No additional chest pain, but I have felt my heart racing a few times.
+
+D: Cough or difficulty breathing?
+
+P: Just the shortness of breath, no cough.
+
+D: Any changes in urination or blood in the urine?
+
+P: No, that's normal.
+
+D: Changes in bowel movements, nausea, vomiting, or abdominal pain?
+
+P: No, my digestive system seems fine.
+
+D: Any dizziness, headaches, memory issues, or confusion?
+
+P: I've been feeling a bit lightheaded occasionally.
+
+D: Joint pains or muscle aches?
+
+P: No joint pains.
+
+D: Any intolerance to heat or cold?
+
+P: Not really.
+
+D: Let's check your vitals. Your blood pressure is a bit high, 145 over 95. We'll need to monitor that. Your heart rate is 88, a little elevated, respiratory rate is 18 breaths per minute, temperature is normal at 98.2 Fahrenheit, and oxygen saturation is 96% on room air. Now, let's start with the physical exam. You seem to be alert and oriented. Can you confirm today's date and our location?
+
+P: Sure, we're at the City Health Clinic in Vancouver, British Columbia, Canada. Today is Tuesday, October 10th, 2023.
+
+D: Excellent. I'm going to check your eyes now. Keep still for me, please. Good, pupils are equal, round, and reactive to light. No redness or swelling in your head and neck area. I'll listen to your heart now. Please breathe normally. 
+
+D: Your heart sounds show normal S1 and S2, no murmurs detected. Now, let's listen to your lungs. Good air entry bilaterally, no wheezing or other sounds. I'll palpate your abdomen now, looking for any abnormalities. 
+
+D: Your abdomen is soft, non-tender, and bowel sounds are normoactive. No signs of peripheral edema. I'm also going to perform a brief neurological exam. Can you follow my finger with your eyes? Good, no issues there. Your cognitive screen is normal, including orientation and short-term memory.
+
+D: Based on your symptoms and history, I'm concerned about the possibility of angina, which is chest pain due to reduced blood flow to the heart. We'll need to do an EKG and maybe a stress test to evaluate your heart function. I'll prescribe nitroglycerin to use when you have chest pain, and I want to start you on a low-dose aspirin regimen to help prevent blood clots.
+
+D: I'll refer you to a dietitian to optimize your diabetes management, as good control can reduce cardiovascular risks. We'll also schedule a follow-up in two weeks to reassess your symptoms and review test results. If your chest pain becomes severe, or if you experience any new symptoms like fainting, please go to the emergency room immediately. Any questions or concerns?
+
+P: No, that sounds thorough. I'll follow your instructions and look forward to getting this resolved.
+
+D: Great. Let's get your flu shot done today, and I'll see you back here in two weeks. Take care, Isabella.
+
+P: Thank you, Dr. Khan. See you soon.

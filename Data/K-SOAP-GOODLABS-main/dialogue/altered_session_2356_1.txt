@@ -1,0 +1,62 @@
+D: Good day, please come in and have a seat.
+D: I'm Doctor Amir Ahmed. Could you share your full name and your age?
+P: Sure, I'm also Amir Ahmed, and I'm 58 years old.
+D: Nice to meet you, Mr. Ahmed. How have you been feeling lately?
+P: Well, Dr. Ahmed, I've been better. I've actually come in because I've been having some stomach issues.
+D: I see. Can you tell me more about these stomach issues? When did they start?
+P: It started about two weeks ago. The pain comes and goes, but it's been getting worse over the past few days. It's this sharp pain right in my upper abdomen.
+D: Does anything in particular seem to trigger the pain or make it better?
+P: Eating fatty foods makes it worse, and resting seems to help a bit.
+D: Have you experienced any nausea, vomiting, or changes in your bowel movements?
+P: Yes, I've had some nausea and my bowel movements have been irregular. No vomiting, though.
+D: And on a scale from 1 to 10, how would you rate your pain at its worst?
+P: I'd say it shoots up to an 8 at times.
+D: Has this pain affected your ability to work or go about your daily activities?
+P: Definitely. I've had to take time off work and I can't seem to enjoy my usual hobbies.
+D: Have you had any tests done or seen anyone about this before?
+P: No, this is my first time seeking help for it.
+D: Let's talk about your medical history. Any other conditions we should be aware of?
+P: I have high cholesterol, for which I'm taking medication.
+D: What about allergies? Do you have any?
+P: Yes, I'm allergic to penicillin and shellfish.
+D: Are you up to date with your immunizations, including the flu shot?
+P: I believe so, but I haven't had my flu shot this year yet.
+D: Any family history of gastrointestinal diseases or other illnesses?
+P: My mother had gallstones and my father had a history of heartburn.
+D: What about your occupation and living situation?
+P: I'm a retired banker, and I live with my wife. We have two grown children. I enjoy gardening when I'm feeling up to it.
+D: Do you smoke or drink alcohol?
+P: I quit smoking 10 years ago and I drink wine occasionally.
+D: And the medications you're currently taking?
+P: I take atorvastatin 20 mg for my cholesterol.
+D: Now, let's go through a review of systems. Any fever, chills, or weight loss?
+P: No fever or chills, but I have lost a few pounds recently.
+D: Any symptoms of a cold or congestion?
+P: No, nothing like that.
+D: Chest pain or palpitations?
+P: No, none of those.
+D: Cough or difficulty breathing?
+P: No respiratory issues.
+D: Any changes in urination or blood in the urine?
+P: No changes there.
+D: Nausea, vomiting, or abdominal pain besides what you've mentioned?
+P: Just the nausea and the abdominal pain.
+D: Any dizziness, headaches, or confusion?
+P: No neurological symptoms.
+D: Joint pains or muscle aches?
+P: No, my joints and muscles are fine.
+D: And any issues with feeling too hot or too cold?
+P: No, I've been feeling temperature-wise normal.
+D: Let's proceed with the physical exam. Are you in any discomfort right now?
+P: A little, but I'm okay.
+D: Your affect seems calm. I'm going to examine your head and neck now. Any tenderness or swelling here?
+P: No, nothing like that.
+D: Your pupils are equal and reactive to light. Let's listen to your heart. Normal S1 and S2, no murmurs. And your lung sounds? Good air entry, no wheezing. How about your abdomen? I'm going to press gently here.
+P: That's a bit tender.
+D: But no rebound pain. Bowel sounds are normoactive. Your cognitive screen is normal; you seem oriented and your memory is intact. Your vital signs are heart rate 68, blood pressure 130/85, respiratory rate 16. All within normal limits.
+D: For the assessment, your symptoms and history suggest you might have gallstones. We'll need an ultrasound of the abdomen to confirm, and I'll order a complete blood count and liver function tests.
+P: Okay, what about treatment?
+D: For now, avoid fatty foods and eat smaller, more frequent meals. If the pain becomes unbearable or you develop fever, go to the emergency room immediately.
+D: I'll schedule a follow-up after we get your test results. Any questions?
+P: No, that covers everything. Thank you, doctor.
+D: You're welcome, Mr. Ahmed. Take care and we'll see you soon.

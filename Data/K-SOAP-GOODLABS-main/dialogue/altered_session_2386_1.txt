@@ -1,0 +1,67 @@
+D: Good afternoon, I'm Doctor Ahmed Ali. What brings you in today?
+P: Hello Doctor Ali. I'm Fatima Khan, I've been having some stomach issues lately.
+P: I'm 29 and I thought it was time to get it checked out.
+D: I see. Can you describe your symptoms for me?
+P: Well, I've been experiencing abdominal pain, mostly in the upper area, and it's been quite persistent for the past two weeks.
+D: Can you tell me more about the pain? Is it a sharp pain, or more of a dull ache?
+P: It's a sharp pain that comes and goes. Sometimes it feels like it's radiating towards my back. On a scale, I'd say it's about a 7 out of 10.
+D: Have you noticed anything that makes it better or worse?
+P: Eating seems to aggravate it, and lying down makes it a bit better.
+D: Have you experienced anything like this before?
+P: No, this is the first time.
+D: And how has this been affecting your daily life and work?
+P: It's been tough. I've had to miss work because the pain can be overwhelming at times.
+D: Have you had any testing done for this condition?
+P: No, I haven't.
+D: Alright. Let's go over some more details. Can I have your full name and age again, just for confirmation?
+P: Sure, it's Fatima Khan, and I'm 29 years old.
+D: Thank you, Fatima. How have you been feeling overall, aside from the abdominal pain?
+P: I've felt a bit fatigued and I've lost some weight unintentionally.
+D: I understand. Do you have any other medical conditions?
+P: I was diagnosed with acid reflux a few years ago.
+D: Okay. And are you currently taking any medications?
+P: Yes, I take omeprazole 20 mg for the reflux.
+D: Have you noticed any allergies?
+P: I'm allergic to penicillin.
+D: Noted. Are your immunizations up to date?
+P: Yes, though I think I'm due for my influenza vaccine.
+D: We'll make sure to get that updated. What about your family history?
+P: My mother has thyroid issues and my brother has Crohn's disease.
+D: Got it. Can you tell me about your occupation and personal life?
+P: I'm a graphic designer, currently single, no children. I enjoy painting in my spare time. I don't smoke, and I only drink socially, maybe once a month.
+D: Let's move on to the review of systems. Any fever, chills, or significant weight loss?
+P: No fever or chills, but I've lost about 5 pounds in the past month without trying.
+D: Any congestion, runny nose, or sore throat?
+P: Not really, no.
+D: Chest pain, palpitations?
+P: No, none of that.
+D: Cough or difficulty breathing?
+P: No issues there.
+D: Any changes in urination or blood in the urine?
+P: No, that's all normal.
+D: Changes in bowel movements, nausea, or vomiting?
+P: I've been feeling nauseous, especially after eating, but no vomiting.
+D: Dizziness, headaches, or confusion?
+P: Occasional headaches, but that's it.
+D: Any joint pains or muscle aches?
+P: No, not really.
+D: And finally, any issues with feeling too hot or cold?
+P: I've been feeling a bit colder than usual, actually.
+D: Thank you for that information. Now let's check your vitals. Please sit up straight and relax your arm for me.
+P: Okay, doing that now.
+D: Your blood pressure is 130/85, heart rate is 78 beats per minute, respiratory rate is 16 breaths per minute, and your oxygen saturation is 97%. All within normal ranges.
+P: That's good to hear.
+D: Now, I'm going to conduct a physical exam. Are you experiencing any respiratory distress at the moment?
+P: No, I'm breathing fine.
+D: Your affect appears calm and appropriate. Looking at your head and neck, I don't see any redness, swelling, or nodules. Your pupils are equal and reactive to light, which is good. Listening to your heart, I hear normal S1 and S2 sounds, no murmurs. Your lungs have good air entry bilaterally, no wheezing or other sounds. Your abdomen has normoactive bowel sounds, and it's soft and non-tender upon palpation. Lastly, your cognitive screen is normal; you're oriented to time, place, and your short-term memory is intact.
+P: That's a relief.
+D: Based on your symptoms and history, it sounds like you may have gastritis or a peptic ulcer. I'd like to order some lab work, including a complete blood count, liver function test, and we'll test for H. pylori, a common cause of ulcers. We may also consider an upper endoscopy if needed.
+P: Okay, that sounds thorough.
+D: In the meantime, I'll prescribe a proton pump inhibitor to help with the acid reflux and potentially alleviate some of your abdominal pain. I also recommend avoiding spicy and acidic foods, as they can worsen your symptoms.
+P: I can do that.
+D: We'll schedule a follow-up visit after we get your test results. If your pain becomes unbearable or if you experience vomiting blood, please go to the emergency room immediately.
+P: Understood.
+D: Here's your lab requisition. Do you have any other questions or concerns?
+P: No, that covers everything. Thank you, Doctor Ali.
+D: You're welcome, Fatima. Take care and I'll see you soon for the follow-up.
+P: You too, goodbye.

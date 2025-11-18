@@ -1,0 +1,56 @@
+D: Good day, I'm Dr. Ahmed Ali. What can I do for you today?
+P: Hi there, I'm feeling alright, and you?
+D: I'm well, thank you. Before we proceed, can you please tell me your full name and age for confirmation purposes?
+P: Sure, Malik Johnson is my name.
+D: Excellent, Malik. And your age?
+P: I'm 45 years old.
+D: Great, 45. So, Malik, what's the reason for your visit today?
+P: I've been feeling quite anxious and down for the past few weeks.
+D: I see. Can you tell me more about when these feelings started and if they have been constant or changing over time?
+P: It started about two months ago. The anxiety comes and goes, but the low mood has been pretty constant. Nothing I do seems to alleviate it, and it's been getting progressively worse.
+D: Have you experienced these feelings before, or is this the first time?
+P: This is the first time it's been this bad.
+D: I understand. How is this affecting your daily life and work?
+P: It's been tough. I can't concentrate, and I've started to miss days at work because I just can't get out of bed.
+D: That sounds challenging. Have you had any treatment or testing for these symptoms before?
+P: No, I haven't seen anyone about this until now.
+D: Okay, let's move on to your medical history. Do you have any chronic illnesses or conditions I should be aware of?
+P: I have high cholesterol, but that's about it.
+D: Any allergies?
+P: Just penicillin.
+D: Are you up to date with your immunizations, including the influenza vaccine?
+P: I believe I'm due for the flu shot.
+D: Noted. Now, can you tell me a bit about your family's health history?
+P: My father had depression, and my mother has thyroid issues.
+D: Okay, that's helpful to know. What about your personal life? What do you do for a living, and what are your hobbies?
+P: I'm a graphic designer. I'm single, no kids. I used to enjoy painting and cycling, but I haven't had much interest in those lately.
+D: Do you smoke or drink alcohol?
+P: I don't smoke, and I occasionally have a beer or two.
+D: Alright, what medications are you currently taking?
+P: I'm on atorvastatin, 20 milligrams daily for my cholesterol.
+D: Understood. Now I'm going to ask about other symptoms to make sure we cover everything. Any fever, chills, or significant weight loss recently?
+P: No fever or chills, but I have lost some weight without trying.
+D: Any congestion, sore throat, or ear pain?
+P: No, none of those.
+D: Chest pain or palpitations?
+P: No chest pain, but I've had a few episodes of palpitations when I'm feeling really anxious.
+D: How about your breathing? Any cough or shortness of breath?
+P: No cough, but I sometimes feel short of breath with the palpitations.
+D: Any changes in urination or blood in the urine?
+P: No changes there.
+D: Any gastrointestinal issues like changes in bowel movements, nausea, or abdominal pain?
+P: No, my stomach's been fine.
+D: Have you experienced any dizziness, headaches, memory issues, or confusion?
+P: No dizziness or headaches, but my memory hasn't been the best lately. I forget things more often.
+D: Any joint pains?
+P: No joint pains.
+D: Do you have any issues with heat or cold intolerance?
+P: Not that I've noticed.
+D: Let's do a quick physical exam. Your vital signs are blood pressure 130/85, heart rate 76 beats per minute, and respiratory rate 18 breaths per minute. You appear to be not in any respiratory distress. Your affect seems somewhat flat, which can be consistent with depression. Your head and neck exam show no redness or swelling. Your pupils are equal, round, and reactive to light. I hear normal S1 and S2 heart sounds, no murmurs. Your lung exam reveals good air entry bilaterally with no wheezing. Abdomen is soft, non-tender, with normoactive bowel sounds. Cognitive screening shows you are oriented to time and place, but your short-term memory seems a bit impaired.
+
+Now for the assessment and plan:
+Based on your symptoms and history, it seems you may be experiencing a major depressive episode, possibly with an anxiety component. We'll start with some lab work to rule out any physical causes, like thyroid dysfunction, which can sometimes present with similar symptoms. I'd also recommend starting you on an antidepressant, such as sertraline, and referring you to a therapist for cognitive-behavioral therapy. It's important to monitor your response to the medication and therapy, so I'd like to see you back in four weeks. If you experience any worsening of symptoms or have any thoughts of self-harm, please go to the emergency room immediately. Do you have any questions or concerns about this plan?
+
+P: No, that sounds good. Thank you for your help.
+D: You're welcome, Malik. Take care, and I'll see you in a few weeks.
+P: Goodbye, Dr. Ali.

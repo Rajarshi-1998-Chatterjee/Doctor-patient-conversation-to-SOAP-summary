@@ -1,0 +1,76 @@
+Subjective
+
+Chief Complaint
+Anxiety
+
+History of Presenting Illness
+37-year-old male presents with increasing anxiety over the past month, currently rating it as an 8 out of 10 in severity. Symptoms include trouble sleeping and difficulty concentrating at work, particularly exacerbated by work deadlines. Patient reports that the anxiety is constant and unrelieved by any measures taken so far. No prior testing has been conducted for this condition.
+
+Past Medical History
+No chronic illnesses or conditions reported.
+
+Past Surgical History
+Not taken.
+
+Family History
+Mother has anxiety; father has hypertension; siblings are in good health.
+
+Allergies
+Penicillin: causes a rash.
+
+Social History
+Patient is a software developer, married with no children, and enjoys reading and playing chess. He does not smoke and occasionally consumes alcohol.
+
+Medication
+None at the moment.
+
+Immunization History
+Up to date, including the flu vaccine received last month.
+
+Review of Systems
+Constitutional: Negative for fever, chills, and significant weight loss.
+Eyes: Not taken.
+Ears, Nose, and Throat: Negative for rhinorrhea, congestion, ear pain, or sore throat.
+Respiratory: Negative for cough; reports shortness of breath when anxious.
+Cardiovascular: Negative for chest pain; occasional palpitations with a racing heart sensation.
+Gastrointestinal: Negative for changes in bowel movements; reports nausea when anxiety peaks.
+Genitourinary: Negative for changes in urination or blood in urine.
+Musculoskeletal: Negative for joint pains.
+Skin and/or breasts: Not taken.
+Neurological: Reports headaches and moments of confusion.
+Psychiatric: Reports anxiety.
+Endocrine: Reports feeling cold, attributed to the weather.
+Hematologic/Lymphatic: Not taken.
+
+Objective
+
+Vital Signs
+BP 130/85 mmHg
+HR 90 bpm
+RR 18 breaths per minute
+Temp: Not taken
+O2 sat: Not taken
+
+Physical Exam
+Constitutional: Patient is alert and oriented, appears somewhat anxious.
+Head and Neck: No redness or swelling; pupils are reactive and equal to light.
+Respiratory: Lungs have good air entry bilaterally with no wheezing or other adventitious sounds.
+Cardiovascular: Heart sounds are normal S1 and S2 with no murmurs.
+Abdomen: Soft, non-tender, and bowel sounds are normoactive.
+Neurological: Cognitive screen is normal; oriented to time and place with intact short-term memory.
+
+Diagnostic Tests
+Not done.
+
+Assessment
+37-year-old male with a one-month history of worsening anxiety, trouble sleeping, and difficulty concentrating. Symptoms are significantly impacting daily life and work performance. Family history of anxiety and no known chronic conditions. Physical examination reveals elevated heart rate with no other abnormalities. Likely anxiety disorder.
+Diagnosis: Anxiety disorder.
+
+Plan
+Anxiety disorder:
+1. Initiate low dose of SSRI, sertraline.
+2. Refer to a therapist for cognitive behavioral therapy.
+3. Conduct blood work to rule out underlying conditions contributing to symptoms.
+4. Advise on the importance of a balanced diet, regular exercise, and relaxation techniques.
+5. Schedule follow-up in four weeks to evaluate response to medication and therapy.
+6. Instruct patient to go to the emergency room if symptoms worsen or feel unmanageable.

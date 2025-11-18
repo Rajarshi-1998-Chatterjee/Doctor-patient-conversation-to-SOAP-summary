@@ -1,0 +1,139 @@
+D: Good morning, I'm Doctor Mateo Gonzalez. How can I assist you today? Before we begin, could I have your full name and date of birth, and then you can tell me what's concerning you?
+
+P: Hello, I'm Ahmed Hassan. I was born on March 15th. 
+
+P: I've come because I've been having some troubling symptoms lately.
+
+D: Alright, Ahmed. What symptoms have you been experiencing?
+
+P: It started with headaches, but now I've been feeling dizzy, and there's this tingling sensation in my hands and feet. It's been going on for about two weeks now.
+
+D: I see. Has the intensity of these symptoms changed since they started?
+
+P: The dizziness has gotten a bit worse, and the headaches are more frequent. The tingling is constant.
+
+D: Does anything seem to trigger these symptoms or make them better?
+
+P: Bright lights seem to make the headaches worse, and rest doesn't seem to help much with the dizziness.
+
+D: On a scale from 1 to 10, how would you rate your headache pain at its worst?
+
+P: It can get up to an 8. It's quite debilitating.
+
+D: Have you noticed any memory issues or confusion accompanying these symptoms?
+
+P: Not exactly confusion, but I've been more forgetful lately.
+
+D: Has this impacted your daily activities or work?
+
+P: Yes, I've had to take time off work because I can't concentrate, and I'm worried about driving with the dizziness.
+
+D: Have you had any tests or seen any other doctors for these symptoms?
+
+P: No, this is my first visit regarding these issues.
+
+D: Understood. Let's talk about your medical history. Have you had any previous illnesses or conditions?
+
+P: I've been generally healthy, but I was diagnosed with migraines in my thirties.
+
+D: Do you have any allergies, Ahmed?
+
+P: Yes, I'm allergic to penicillin and shellfish.
+
+D: Are you up to date with your immunizations, including the influenza vaccine?
+
+P: I believe I am, but I haven't had this year's flu shot yet.
+
+D: Okay, we can address that today. How about your family history? Any neurological conditions?
+
+P: My father had Parkinson's disease, and my sister has epilepsy.
+
+D: I see. And what about your occupation and social history?
+
+P: I'm an accountant. I'm married with two kids, and I enjoy reading and playing chess in my free time. I don't smoke, and I only drink socially, maybe once a month.
+
+D: Are you currently on any medications?
+
+P: Just the occasional ibuprofen for the headaches.
+
+D: Let's go through a quick review of systems. Any fever, chills, or unexpected weight loss?
+
+P: No, none of those.
+
+D: Any issues with congestion or sore throat?
+
+P: No, I feel fine in that regard.
+
+D: Any chest pain or palpitations?
+
+P: No chest pain, but I've had a few palpitations with the dizziness.
+
+D: Cough or shortness of breath?
+
+P: No cough, but the dizziness can make me feel a bit short of breath.
+
+D: Any changes in urination or blood in the urine?
+
+P: No, that's all normal.
+
+D: Changes in bowel movements, nausea, or abdominal pain?
+
+P: No issues there either.
+
+D: Any joint pains or muscle aches?
+
+P: No, just the tingling sensation I mentioned earlier.
+
+D: Any heat or cold intolerance, or changes in your skin or hair?
+
+P: No, nothing like that.
+
+D: Okay. Let's move on to the physical exam. I see here your vital signs show a blood pressure of 120/75, heart rate of 70, respiratory rate of 14, temperature is 98.7°F, and oxygen saturation is 98%. You seem to be in no respiratory distress, and your affect is calm. Let's proceed with the examination.
+
+P: Sure.
+
+D: I'll start with your head and neck. I'm checking for any redness, swelling, or nodules.
+
+P: Okay.
+
+D: Now, I'm going to examine your eyes. Your pupils are equal, round, and reactive to light.
+
+P: Alright.
+
+D: For your cardiovascular exam, I'm listening for your heart sounds. I hear normal S1 and S2, no murmurs.
+
+P: Good to hear.
+
+D: Let's check your respiratory system. You have good air entry bilaterally, no wheezing or other sounds.
+
+P: Okay.
+
+D: Now, I'll listen to your abdomen. Your bowel sounds are normoactive, and your abdomen is soft and non-tender.
+
+P: That's a relief.
+
+D: Lastly, I'm going to perform a brief neurological exam. Can you tell me today's date and where we are?
+
+P: It's [insert today's date], and we're at your clinic.
+
+D: Good. Do you recall what you had for breakfast?
+
+P: Yes, I had oatmeal and a banana.
+
+D: Perfect. Your cognitive screen appears normal. Now, based on your symptoms and family history, I suspect you may be experiencing migraines with aura, possibly exacerbated by stress. However, given the new tingling sensation and dizziness, I want to rule out other neurological conditions.
+
+P: What's the next step?
+
+D: I'll order an MRI of your brain to get a clearer picture. I'm also prescribing a medication to help manage your migraines and recommending that you see a neurologist for further evaluation.
+
+P: Sounds like a plan.
+
+D: We'll also get you that flu shot today. I'd like to see you back in a month to review the MRI results and discuss the neurologist's findings. If your symptoms worsen or you have any concerns, please come in sooner.
+
+P: Thank you, Doctor Gonzalez. I appreciate your help.
+
+D: You're welcome, Ahmed. Take care, and I'll see you next time.
+
+P: Goodbye, doctor.
+
+D: Goodbye.

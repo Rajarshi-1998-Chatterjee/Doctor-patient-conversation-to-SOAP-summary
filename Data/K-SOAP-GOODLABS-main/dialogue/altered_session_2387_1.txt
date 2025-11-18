@@ -1,0 +1,53 @@
+D:Hello, I'm Doctor Sofia Lopez. What brings you in today?
+P:Hello, Doctor Lopez. I'm Suki Kim, and I've been having some trouble with my breathing lately.
+D:It's good that you came in to have that checked out. Can you describe the breathing problems you've been experiencing?
+P:Well, it started about two weeks ago. I've been feeling short of breath, especially when I climb stairs. It's been getting progressively worse, and now I feel winded even after a short walk.
+D:Does anything seem to improve or worsen the shortness of breath?
+P:Resting seems to help a bit, but it gets worse with any physical activity. Cold air also seems to make it harder to breathe.
+D:Have you had similar symptoms in the past?
+P:No, this is the first time.
+D:Understood. Have you experienced any coughing, wheezing, or chest pain along with the shortness of breath?
+P:I've had a dry cough, but no wheezing or chest pain.
+D:And how has this affected your day-to-day life?
+P:I've had to take time off work because I'm a dance instructor, and right now, I just can't keep up with my classes.
+D:Have you had any tests done for this condition before coming here?
+P:No, I haven't.
+D:Let's move on to your medical history. Do you have any chronic illnesses or conditions?
+P:I have a history of seasonal allergies, but nothing chronic.
+D:Do you have any allergies to medications or other substances?
+P:Yes, I'm allergic to penicillin and latex.
+D:And are you up to date with all your immunizations, including the influenza vaccine?
+P:I am up to date, but I haven't had my flu shot this year yet.
+D:We can take care of that today. Any significant illnesses in your family?
+P:My father had asthma, and my mother has diabetes.
+D:Thank you for sharing that. Can you tell me about your personal life? Are you currently working, and what's your living situation?
+P:I'm a dance instructor, as I mentioned, and I'm single. I live in an apartment by myself, but I have friends and family nearby.
+D:Do you smoke or drink alcohol?
+P:I don't smoke, and I only drink socially, maybe once a month.
+D:What medications are you currently taking?
+P:I use an antihistamine for my allergies, cetirizine, 10 mg daily.
+D:Let's go over some general health questions. Any recent fever, chills, or weight loss?
+P:No fever or chills, but I've lost a couple of pounds recently because I haven't been as active.
+D:Any symptoms of infection like runny nose, congestion, ear pain, or sore throat?
+P:I've had a bit of a runny nose, but no other symptoms.
+D:Any chest pain or heart palpitations?
+P:No, none of those.
+D:Besides the shortness of breath, any other respiratory issues like cough or wheezing?
+P:Just the dry cough I mentioned earlier.
+D:Any changes in your bathroom habits or any blood in your urine?
+P:No, everything seems normal there.
+D:What about your gastrointestinal system? Any nausea, vomiting, or abdominal pain?
+P:No, my stomach has been fine.
+D:How about any headaches, dizziness, or confusion?
+P:I've been feeling a little lightheaded when I get short of breath, but no headaches or confusion.
+D:And any joint pains or muscle aches?
+P:No, just the usual soreness from dancing.
+D:Any issues with feeling too hot or too cold, which could indicate a thyroid problem?
+P:Not really, I've been comfortable temperature-wise.
+D:Great, let's check your vitals. Your heart rate is 82, blood pressure is 130/85, and respiratory rate is 20. You're not in respiratory distress at the moment, which is good. Your affect is calm and cooperative. Let's examine your head and neck; no redness or swelling. Pupils are equal, round, and reactive to light. Moving on to your heart sounds, I hear normal S1 and S2, no murmurs. Your lungs—let me listen closely.
+P:(takes deep breaths as instructed)
+D:Good air entry bilaterally, no wheezing or other adventitious sounds. Your abdomen is soft and non-tender, with normoactive bowel sounds. And your cognitive screen is normal; you're oriented to time, place, and have intact short-term memory. Now, based on your symptoms and history, it sounds like you may have adult-onset asthma, especially considering your family history. We'll need to conduct a few tests to confirm this, including a chest X-ray and spirometry. I'm also going to prescribe an inhaler to help manage your symptoms and a referral to a pulmonologist. In the meantime, I recommend avoiding strenuous activity and cold air until we have a better handle on your condition. We'll schedule a follow-up after the tests are done, but if your symptoms worsen or you have any concerns, come to the emergency room immediately. Let's also get that flu shot done today to keep you protected. How does that sound?
+P:That sounds good, Doctor Lopez. Thank you for your help.
+D:You're welcome, Suki. Take care, and I'll see you soon for the follow-up.
+P:Thank you, Doctor. Have a great day.
+D:You too, Suki.

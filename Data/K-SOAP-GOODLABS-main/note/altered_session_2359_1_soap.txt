@@ -1,0 +1,77 @@
+Subjective
+
+Chief Complaint
+Anxiety and low mood
+
+History Of Presenting Illness
+45-year-old male named Malik Johnson presents with feelings of anxiety and a consistently low mood for the past two months. The anxiety fluctuates, but the low mood has been constant and progressively worsening. The patient reports an inability to alleviate these feelings, which has affected his ability to concentrate and resulted in missed days at work due to an inability to get out of bed. This is the first time the patient has experienced symptoms to this severity.
+
+Past Medical History
+High cholesterol
+
+Past Surgical History
+Not taken
+
+Family History
+Father had depression; mother has thyroid issues
+
+Allergies
+Penicillin
+
+Social History
+Graphic designer, single, no children. Hobbies include painting and cycling, though interest has decreased lately. Does not smoke and drinks beer occasionally.
+
+Medication
+Atorvastatin, 20 milligrams daily
+
+Immunization History
+Due for the influenza vaccine
+
+Review of Systems
+Constitutional: Negative for fever and chills. Reports unintentional weight loss.
+Eyes: Not taken
+Ears, Nose, and Throat: Not taken
+Respiratory: Negative for cough. Reports occasional shortness of breath associated with palpitations.
+Cardiovascular: Negative for chest pain. Reports episodes of palpitations.
+Gastrointestinal: Negative for nausea, vomiting, abdominal pain, and changes in bowel movements.
+Genitourinary: Negative for changes in urination and blood in the urine.
+Musculoskeletal: Negative for joint pain.
+Skin and/or breasts: Not taken
+Neurological: Negative for dizziness and headaches. Reports impaired short-term memory.
+Psychiatric: Reports anxiety and low mood.
+Endocrine: Negative for heat or cold intolerance.
+Hematologic/Lymphatic: Not taken
+
+Objective
+
+Vital Signs
+BP 130/85 mmHg
+HR 76 bpm
+RR 18 breaths per minute
+Temp: Not taken
+O2 sat: Not taken
+
+Physical Exam
+Constitutional: Appears not in respiratory distress, affect somewhat flat.
+HEENT: Pupils are equal, round, and reactive to light. No redness or swelling in head and neck.
+Respiratory: Good air entry bilaterally with no wheezing.
+Cardiovascular: Normal S1 and S2 heart sounds, no murmurs.
+Abdomen: Soft, non-tender with normoactive bowel sounds.
+Neurological: Oriented to time and place, short-term memory seems impaired.
+Musculoskeletal: Not taken
+Skin: Not taken
+
+Diagnostic Tests
+Not done
+
+Assessment
+45-year-old male with no significant past medical history besides high cholesterol, presenting with anxiety and a persistent low mood, indicative of a major depressive episode with an anxiety component. Family history of depression and thyroid issues noted. Physical examination and review of systems are largely unremarkable, but the patient's affect and reported symptoms suggest a psychiatric etiology. Short-term memory impairment noted but no other neurological deficits.
+Diagnosis: Major depressive episode with an anxiety component.
+
+Plan
+Major depressive episode with an anxiety component:
+1. Lab work to rule out physical causes such as thyroid dysfunction.
+2. Initiate pharmacotherapy with an antidepressant, such as sertraline.
+3. Referral to a therapist for cognitive-behavioral therapy.
+4. Follow-up visit in four weeks to monitor response to medication and therapy.
+5. Instruct patient to seek immediate care in the emergency room if symptoms worsen or if thoughts of self-harm occur.

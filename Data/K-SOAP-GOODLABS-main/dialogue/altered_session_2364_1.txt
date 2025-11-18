@@ -1,0 +1,111 @@
+D: Good afternoon, I'm Doctor Mei Chen, and I'll be taking care of you today. Could you please tell me your full name and how old you are?
+
+P: Sure, I'm Jamal Ahmed, and I'm 42 years old.
+
+D: It's a pleasure to meet you, Jamal. What seems to be the issue that brings you in today?
+
+P: Well, Doctor, I've been feeling really out of sorts lately. My mind's been all over the place, and I've been having these mood swings. I just can't seem to shake this feeling of sadness, and it's been like this for a few weeks now.
+
+D: I see. Can you recall when you first started feeling this way?
+
+P: I think it's been about a month, maybe a little more.
+
+D: Has your mood been consistently low since then, or has it been fluctuating?
+
+P: It's been pretty consistent, but there are days when it gets really bad, almost unbearable.
+
+D: I understand. And what seems to make it better or worse? Have you noticed any patterns or triggers?
+
+P: Not really, it just comes and goes. But I guess it gets worse when I'm alone or when I have to face stressful situations.
+
+D: Have you ever felt this way before, or is this the first time?
+
+P: This is the first time it's been this bad. I've had rough patches, but nothing like this.
+
+D: Alright. And on a scale from 1 to 10, how would you rate your mood on average, with 10 being the happiest you've ever felt?
+
+P: I'd say it hovers around a 2 most days. It's pretty low.
+
+D: I see. And how is this affecting your daily life and work?
+
+P: It's affecting everything. I can't focus at work, and my personal life is practically non-existent now. I've started avoiding friends and family because I just don't have the energy to interact.
+
+D: Have you sought any help before this or had any tests done regarding your mood?
+
+P: No, this is my first time seeking help.
+
+D: Okay. Let's go over your medical history. Do you have any chronic illnesses or conditions?
+
+P: No, nothing chronic.
+
+D: Any allergies?
+
+P: Not that I'm aware of.
+
+D: Are you up to date with your immunizations, including the flu shot?
+
+P: I think I might be due for the flu shot, actually.
+
+D: We can certainly look into that for you. What about your family history? Any psychiatric conditions in your family?
+
+P: My aunt had depression, I think.
+
+D: Alright. And what do you do for a living? Are you currently in a relationship? Do you have any children?
+
+P: I'm a graphic designer. I'm single, no kids. For hobbies, I used to enjoy photography, but I haven't picked up my camera in months.
+
+D: Do you smoke or drink alcohol?
+
+P: I'll have a drink occasionally, but I don't smoke.
+
+D: Are you currently taking any medications, including over-the-counter or prescription drugs?
+
+P: No, I'm not on any medications.
+
+D: Let's go through a review of systems. Have you experienced any fever, chills, or significant weight loss recently?
+
+P: No fever or chills, but I've lost some weight because I'm not eating much.
+
+D: Any symptoms like congestion, sore throat, or ear pain?
+
+P: No, none of those.
+
+D: What about chest pain or palpitations?
+
+P: No chest pain, but I've felt my heart racing a few times when I'm anxious.
+
+D: Any cough or difficulty breathing?
+
+P: No coughing or breathing issues.
+
+D: Any changes in urination or any blood in your urine?
+
+P: No, nothing like that.
+
+D: What about your bowel movements? Any changes there?
+
+P: They're irregular, but I think it's because I'm not eating properly.
+
+D: Any dizziness, headaches, or confusion?
+
+P: Just some mild headaches now and then.
+
+D: And how about joint pains or muscle aches?
+
+P: No joint pains, but I feel tense all over.
+
+D: Any intolerance to heat or cold?
+
+P: Not really, no.
+
+D: Now, let's move on to the physical exam. First, I'll check your vital signs. Your blood pressure is 120/75, heart rate is 68 beats per minute, and your respiratory rate is 14 breaths per minute. You don't seem to be in any respiratory distress. Your affect appears flat, and there's a noticeable lack of expressiveness. No redness or swelling in the head and neck area. Your pupils are equal, round, and reactive to light. Your heart sounds are normal with no murmurs, and your lungs have good air entry bilaterally with no wheezing. Your abdomen is soft, non-tender, and bowel sounds are normoactive. Finally, your cognitive screen is normal; you're oriented to time, place, and your short-term memory is intact.
+
+D: Based on our conversation and my examination, it seems you may be experiencing a major depressive episode. Given your symptoms and the impact on your life, I'd like to start with some blood work to rule out any physical causes for your symptoms, such as thyroid issues. I also recommend starting you on an antidepressant, such as sertraline, and referring you to a therapist for cognitive-behavioral therapy. It's important to monitor your response to the medication and therapy, so I'd like to schedule a follow-up in two weeks. If at any point you feel like harming yourself or if your symptoms significantly worsen, please go to the emergency room immediately. How does that sound to you?
+
+P: That sounds good, Doctor. I just want to start feeling better.
+
+D: We'll work together on this, Jamal. I'll have the nurse come in to discuss the immunizations and give you more information about the medication and therapy. Thank you for coming in today, and we'll get you started on the path to recovery.
+
+P: Thank you, Doctor Chen. I appreciate your help.
+
+D: You're welcome. Take care, and I'll see you soon.

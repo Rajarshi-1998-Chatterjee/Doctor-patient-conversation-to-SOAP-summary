@@ -1,0 +1,91 @@
+D: Good day, I'm Dr. Ahmed Hassan, and I'll be overseeing your care today. Could you share your name and age with me?
+
+P: Sure, I'm Abdul Khan, and I'm 37 years old.
+
+D: It's a pleasure to meet you, Abdul. What's the reason for your visit today?
+
+P: Well, Dr. Hassan, for about a month now, I've been feeling really anxious and it's been getting worse. I've also been having trouble sleeping and concentrating at work.
+
+D: I see. Can you describe when you first noticed these feelings of anxiety and the severity on a scale from 1 to 10?
+
+P: It started slowly, maybe a month ago. I'd say it's an 8 now. It's pretty much constant, and nothing I do seems to help. I've never felt this way before.
+
+D: Has anything in particular seemed to trigger or worsen these feelings? And how has this impacted your daily life and work?
+
+P: Deadlines at work make it worse. It's affecting my life a lot. I can't focus, and I'm falling behind on my tasks. I've never had any testing for this, no.
+
+D: Understood. Let's go over your medical history. Do you have any chronic illnesses or conditions?
+
+P: No, nothing like that.
+
+D: Any known allergies?
+
+P: I'm allergic to penicillin. It causes a rash.
+
+D: Are you up to date with your immunizations, including the flu vaccine?
+
+P: Yes, I got my flu shot last month.
+
+D: What about your family's medical history?
+
+P: My mother has anxiety too, and my father has hypertension. My siblings are in good health.
+
+D: Can you tell me about your occupation, marital status, children, and any hobbies you have?
+
+P: I'm a software developer, married with no children. I enjoy reading and playing chess.
+
+D: And your smoking and drinking habits?
+
+P: I've never smoked. I might have a beer occasionally, but not often.
+
+D: What medications are you currently taking, if any?
+
+P: None at the moment.
+
+D: Now, let's go through a review of systems. Have you experienced any fever, chills, or significant weight loss?
+
+P: No, none of those.
+
+D: Any rhinorrhea, congestion, ear pain, or sore throat?
+
+P: No, nothing like that either.
+
+D: Chest pain or palpitations?
+
+P: No chest pain, but sometimes I feel like my heart is racing.
+
+D: Any cough or difficulty breathing?
+
+P: No cough, but when I get really anxious, I feel short of breath.
+
+D: Changes in urination or any blood in your urine?
+
+P: No, that's all normal.
+
+D: Any changes in bowel movements, nausea, vomiting, or abdominal pain?
+
+P: No changes in bowel movements, but I do feel nauseous when my anxiety peaks.
+
+D: Dizziness, headaches, memory issues, confusion, or any motor issues?
+
+P: I've had some headaches and moments of confusion, yes.
+
+D: Joint pains?
+
+P: No joint pains.
+
+D: Any issues with feeling too hot or too cold?
+
+P: I've been feeling a bit cold lately, but I think it's just the weather.
+
+D: Okay, let's proceed with the physical exam. First, I note that you do not appear to be in respiratory distress. Can you confirm today's date and our location?
+
+P: Yes, it's October 12th, 2023, and we're at the Northside Health Facility in Vancouver, British Columbia.
+
+D: Your affect seems somewhat anxious, but you're alert. No redness or swelling in the head and neck area. Your pupils are reactive and equal to light. Upon listening to your heart, I hear normal S1 and S2 sounds with no murmurs. Your lungs have good air entry bilaterally, no wheezing or other adventitious sounds. Your abdomen is soft, non-tender, and bowel sounds are normoactive. Your cognitive screen is normal; you're oriented to time and place with intact short-term memory. Your heart rate is a bit elevated at 90 beats per minute, blood pressure is 130/85, and respiratory rate is 18 breaths per minute.
+
+D: Based on our conversation and my assessment, it seems you may be experiencing an anxiety disorder. I'd like to start you on a low dose of an SSRI, like sertraline, and refer you to a therapist for cognitive behavioral therapy. We'll also do some blood work to rule out any underlying conditions that might contribute to these symptoms. It's important to maintain a balanced diet, get regular exercise, and practice relaxation techniques. I'd like to see you back in four weeks to evaluate how you're doing with the medication and therapy. If you have any worsening symptoms or feel like you can't cope, please go to the emergency room. Any questions?
+
+P: No, that covers everything. Thank you, Dr. Hassan.
+
+D: You're welcome, Abdul. Take care and see you in a few weeks.

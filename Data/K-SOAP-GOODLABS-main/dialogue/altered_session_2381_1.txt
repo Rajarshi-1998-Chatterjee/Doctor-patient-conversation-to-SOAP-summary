@@ -1,0 +1,111 @@
+D:Good afternoon, I'm Doctor Elena Rodriguez, and I'll be taking care of you today. What's your name and how old are you?
+
+P:Hello, I'm Suki Kim and I'm 52 years old.
+
+D:Pleasure to meet you, Suki. What's the reason for your visit today?
+
+P:I've been having some skin issues that I'm concerned about.
+
+D:Could you describe the symptoms for me? When did they start, and have they been changing?
+
+P:It all started about three months ago. I noticed red, itchy patches on my legs. They've been getting worse, spreading, and the itching is intense at night. Nothing seems to relieve it, and I've never had anything like this before. It's affecting my sleep and making me quite irritable.
+
+D:On a scale from 1 to 10, how would you rate the itchiness?
+
+P:I'd say it's about an 8. It's really uncomfortable.
+
+D:Have you noticed any scaling or oozing from the lesions, or do they bleed?
+
+P:Yes, there's some scaling, but no oozing or bleeding.
+
+D:Do you have any other symptoms like fever or joint pain?
+
+P:No fever, but my joints have been a bit stiff, not sure if it's related.
+
+D:Have you had any recent tests or treatments for these skin issues?
+
+P:No, I haven't seen anyone about it until now.
+
+D:Let's talk about your medical history. Any other conditions I should be aware of?
+
+P:I have hypothyroidism, and I take medication for it.
+
+D:What medication are you on, and what's the dosage?
+
+P:I take levothyroxine, 75 micrograms daily.
+
+D:Do you have any allergies?
+
+P:Yes, I'm allergic to penicillin.
+
+D:Are you up to date with your immunizations, including the flu vaccine?
+
+P:I am up to date, but I haven't had this year's flu shot yet.
+
+D:What about your family history? Any illnesses I should know about?
+
+P:My mother had psoriasis, and my father has a history of eczema.
+
+D:Can you tell me about your lifestyle? Your job, marital status, any children, and your hobbies?
+
+P:I'm a librarian, married with two kids, and I enjoy gardening on the weekends. I've never smoked and I drink wine occasionally, maybe once a week.
+
+D:Let's go through a review of systems. Have you experienced any fever, chills, or weight loss?
+
+P:No, none of those.
+
+D:Any issues like congestion or sore throat recently?
+
+P:No, I've been fine in that regard.
+
+D:How about chest pain or palpitations?
+
+P:No chest pain or palpitations.
+
+D:Any coughing or difficulty breathing?
+
+P:No respiratory issues.
+
+D:Have you noticed any changes in urination or any blood in your urine?
+
+P:No changes there.
+
+D:What about your bowel movements? Any nausea, vomiting, or abdominal pain?
+
+P:Everything's normal with my digestion, no nausea or pain.
+
+D:Any dizziness, headaches, memory issues, or confusion?
+
+P:No neurological symptoms.
+
+D:Have you been experiencing any joint pains apart from the stiffness you mentioned?
+
+P:Just the stiffness, no other joint pain.
+
+D:And any issues with heat or cold intolerance?
+
+P:Not really, no.
+
+D:Alright, let's move on to the physical exam. I see you're not in any respiratory distress. Can you tell me how you're feeling right now?
+
+P:I'm okay, just this itching is bothering me.
+
+D:And your affect, would you say you're generally feeling well apart from the skin irritation?
+
+P:Yes, that's correct.
+
+D:Let's take a look at your head and neck. Any tenderness or swelling?
+
+P:No, nothing like that.
+
+D:Your pupils are reactive and equal to light. Now for the cardiovascular exam, I'm listening for heart sounds. S1 and S2 are normal, no murmurs. Respiratory exam is next – good air entry bilaterally, no wheezing. For the gastrointestinal exam, I can hear normoactive bowel sounds, and your abdomen is soft and non-tender. The neurological exam shows you're oriented to time, place, and your short-term memory is intact.
+
+D:Your heart rate is 76 beats per minute, blood pressure is 132 over 86, and respiratory rate is 16 breaths per minute.
+
+D:Now, let's discuss the assessment and plan. Based on your symptoms and family history, it's possible you have a form of dermatitis or psoriasis. We'll need to do a skin biopsy to confirm the diagnosis. I'll also order some blood work to check your thyroid levels and a comprehensive metabolic panel to look at your overall health.
+
+D:In terms of management, I'll prescribe a topical corticosteroid to help with the itching and inflammation. It's important to keep your skin moisturized. I'll also refer you to a dermatologist for further evaluation. We should schedule a follow-up in two weeks to review the biopsy results and adjust the treatment plan as needed. If your symptoms worsen significantly before then, please go to the emergency room. And let's get you that flu shot today.
+
+P:That sounds good, Doctor. Thank you for your help.
+
+D:You're welcome, Suki. Take care and see you in two weeks.

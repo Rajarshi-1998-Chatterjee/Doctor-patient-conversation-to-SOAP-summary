@@ -1,0 +1,52 @@
+D: Good day, Jamal, please come through. How have you been feeling lately?
+P: Hello, Dr. Ali. Good to see you. I've been struggling a bit, to be honest. How about yourself?
+D: I'm well, thank you. Before we proceed, could you remind me of your age?
+P: I'm fifty-nine years old.
+D: Alright. Now, what's been troubling you?
+P: Well, Dr. Ali, I've been feeling extremely anxious for the past couple of months. It's been getting worse, and nothing I do seems to help. It started gradually but now it's affecting my work and my ability to enjoy life. I've never felt this way before.
+D: I see. Can you describe what happens when you feel anxious? Are there any specific triggers?
+P: It's like a constant sense of dread, and it gets sharper when I have to face a crowd or speak in public. My heart races and I feel dizzy. On a scale of 1 to 10, the severity can hit an 8 during a bad episode.
+D: Have you noticed anything that might alleviate these feelings?
+P: Sometimes deep breathing helps a bit, but it's not a solution. The anxiety always comes back.
+D: Understood. Has there been any testing or treatment for your anxiety before now?
+P: No, this is the first time I'm seeking help for it.
+D: Alright. Let's talk about your medical history. Any chronic illnesses or past hospitalizations?
+P: I've had hypertension for ten years and had an appendectomy when I was younger.
+D: Do you have any allergies?
+P: Yes, I'm allergic to penicillin.
+D: Are you up to date with your immunizations, including the influenza vaccine?
+P: I believe I am due for the flu shot.
+D: Noted. How about your family history? Any mental health issues?
+P: My sister has been treated for depression in the past.
+D: Okay. And what do you do for a living? Are you married, any children, and what do you do for fun?
+P: I'm an accountant, divorced with two grown-up children. I used to enjoy painting, but I haven't felt up to it recently.
+D: Do you smoke or drink alcohol?
+P: I don't smoke, and I drink socially, maybe a glass of wine with dinner.
+D: And what medications are you currently taking?
+P: For my blood pressure, I'm on lisinopril, 20 milligrams daily.
+D: Got it. Now, let's go through some general health questions. Any fever, chills, or unintentional weight loss?
+P: No, none of those.
+D: Any cold symptoms like a runny nose or sore throat?
+P: No, nothing like that.
+D: Any chest pain or heart palpitations?
+P: No chest pain, but the palpitations happen with the anxiety.
+D: Have you been experiencing any cough or difficulty breathing?
+P: No cough, but I get short of breath when I'm anxious.
+D: Any issues with urination or changes in your urine?
+P: No problems there.
+D: Any changes in your bowel habits or abdominal pain?
+P: My stomach gets upset sometimes when I'm stressed, but no significant changes.
+D: Any dizziness, headaches, or confusion?
+P: Just the dizziness with the anxiety attacks.
+D: Any joint pain or muscle aches?
+P: No, not really.
+D: Any intolerance to heat or cold?
+P: No, I'm comfortable with temperature changes.
+D: Let's check your vitals. Your blood pressure is 138 over 88, heart rate is 88 beats per minute, respiratory rate is 16 breaths per minute, and your temperature is 98.7 Fahrenheit. Your oxygen saturation is 97% on room air. Now, I'm going to conduct a physical examination.
+P: Okay.
+D: Your appearance is well-kept, but your affect seems a bit flat. Let's check your head and neck – no redness, swelling, or nodules present. Your pupils are equal, round, and reactive to light. Your cardiovascular examination reveals normal S1 and S2 sounds, no murmurs. Respiratory wise, you have good air entry bilaterally, no wheezing or other sounds. Your abdomen is soft, non-tender, with normoactive bowel sounds. And your cognitive screen is normal; you're oriented to time, place, and your short-term memory is intact.
+P: That's good to hear.
+D: Based on your symptoms and history, it seems you're experiencing an anxiety disorder. We'll start with some lab work, including a complete blood count and thyroid function tests to rule out any physiological causes. I'll also prescribe an SSRI, sertraline, to help manage the anxiety, and suggest cognitive-behavioral therapy with a psychologist. It's important to continue exercising, as it can help reduce anxiety levels. We should follow up in one month to assess how you're responding to the treatment. If you have any severe episodes before then, please go to the emergency room.
+P: Thank you, Dr. Ali. I appreciate your help.
+D: Of course, Jamal. Take care, and my office will contact you once we have the lab results. See you in a month. Goodbye.
+P: Goodbye, and thanks again.

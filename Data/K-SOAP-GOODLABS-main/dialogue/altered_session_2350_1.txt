@@ -1,0 +1,73 @@
+D: Hello, I'm Doctor Amir Khan. How are you feeling this morning?
+P: I'm okay, thank you. It's a pleasure to meet you, Dr. Khan.
+D: The pleasure is mine. And you're Mei Wang, correct?
+P: Yes, that's me.
+D: Great. Could you tell me your age, please?
+P: Of course, I'm 62 years old.
+D: You're looking quite well for 62. Keep it up!
+P: Oh, thank you. That's kind of you to say.
+D: What's the reason for your visit today?
+P: I've been having some skin issues lately. I've noticed a rash that's been spreading and it's quite itchy.
+D: I see. Can you tell me when the rash first appeared?
+P: It started about a month ago. It's been getting worse, more areas are affected now, and nothing seems to alleviate the itching. I've never had anything like this before.
+D: Has anything in particular seemed to aggravate the rash or itching?
+P: It gets worse at night and after I shower.
+D: How has this been affecting your daily life?
+P: It's been tough. I'm scratching so much that it's hard to sleep, and I'm self-conscious about going out.
+D: Have you had any testing or treatment for this condition before coming here?
+P: No, I haven't seen anyone about it until now.
+D: Do you have any other medical conditions I should be aware of?
+P: Yes, I have hypothyroidism and a history of eczema, but it hasn't flared up in years.
+D: Any allergies?
+P: I'm allergic to penicillin.
+D: Are you up to date with your vaccinations, including the influenza vaccine?
+P: I believe I am due for my flu shot.
+D: What about your family history? Any similar conditions?
+P: My mother had psoriasis, but that's all I can recall.
+D: Can you tell me about your occupation, your marital status, children, and any hobbies?
+P: I'm a retired librarian, widowed, with two adult children. I enjoy gardening in my free time.
+D: And your smoking and alcohol history?
+P: I've never smoked and I drink wine occasionally, maybe once a week.
+D: What medications are you currently taking?
+P: I take levothyroxine 100 mcg daily.
+D: Let's go through a review of systems. Any fever, chills, or weight loss?
+P: No, none of those.
+D: Any symptoms of infection like rhinorrhea or a sore throat?
+P: No, I feel fine otherwise.
+D: Any chest pain or palpitations?
+P: No, thankfully.
+D: Cough or shortness of breath?
+P: No respiratory issues at all.
+D: Any changes in urination or blood in the urine?
+P: Everything's normal there.
+D: What about your gastrointestinal system? Any nausea, vomiting, or abdominal pain?
+P: No, my stomach has been fine.
+D: Any dizziness, headaches, or memory issues?
+P: No neurological symptoms.
+D: Joint pains?
+P: Just the usual aches from gardening, nothing unusual.
+D: Any intolerance to heat or cold?
+P: Not really, no.
+D: Good. Let's do a physical exam. Are you experiencing any respiratory distress currently?
+P: No, I'm breathing fine.
+D: And how would you describe your mood and affect today?
+P: I'm a bit anxious about my skin, but otherwise, I'm generally in good spirits.
+D: I'll start with your head and neck. Any redness, swelling, or nodules?
+P: No, nothing like that.
+D: Let's check your eyes. Are your pupils reacting normally to light?
+P: Yes, they should be.
+D: Now, for your cardiovascular exam. Do you hear normal heart sounds, any murmurs?
+P: No murmurs that I'm aware of.
+D: How about your lungs? Is there good air entry, any wheezing?
+P: No wheezing, I believe.
+D: I'll listen to your abdomen. Are your bowel sounds normal?
+P: As far as I can tell, yes.
+D: And is your abdomen soft and non-tender?
+P: Yes, it is.
+D: Finally, for the neurological exam, are you oriented to time and place?
+P: Yes, it's October 12th, 2023, and we're in Toronto.
+D: Perfect. Now, let's examine the rash. I can see the areas affected. The rash seems to be erythematous and scaly. Given your history and presentation, it looks like a flare-up of eczema possibly exacerbated by your hypothyroidism. We should start with a topical corticosteroid to reduce inflammation and an antihistamine for the itching. I'd also like to do some blood work to check your thyroid levels and a skin biopsy to confirm the diagnosis. In terms of lifestyle, try to avoid hot showers and use hypoallergenic soaps. We'll schedule a follow-up in two weeks to reassess your condition. If the rash spreads significantly or you experience any other concerning symptoms, please come to the emergency room. How does that sound?
+P: That sounds good, Doctor. Thank you for your help.
+D: You're welcome. Take care, and I'll see you in two weeks.
+P: Goodbye, Dr. Khan.
+D: Goodbye, Mei.

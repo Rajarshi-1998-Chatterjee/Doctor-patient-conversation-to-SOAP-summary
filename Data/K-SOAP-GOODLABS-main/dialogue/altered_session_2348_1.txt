@@ -1,0 +1,51 @@
+D: Good afternoon. Dr. Rafael Gomez here. Am I speaking with Sophia Brown?
+P: Yes, that's me. Hello, doctor. How's your day going?
+D: Quite well, thank you for asking. Just to confirm the information we have on file, could you please tell me your age?
+P: Of course. I'm fifty-four years old.
+D: Perfect, thank you, Sophia. What brings you in today?
+P: Well, I've been feeling quite down for the past month or so. My mood has been really low, and I find myself losing interest in things I used to enjoy. It's been getting worse, and nothing seems to alleviate it. I've felt this way before, but it's never been this bad. It's starting to affect my work and personal life.
+D: I'm sorry to hear that. Have you had any thoughts of harm or noticed any changes in your sleep or appetite?
+P: I've had trouble sleeping, and my appetite is not what it used to be. No thoughts of harm, though, thankfully.
+D: That's good to hear. Have you sought any treatment or counseling for these feelings in the past?
+P: I saw a therapist a few years back when I was going through a rough patch, but nothing recently.
+D: Okay, that's helpful to know. Let's talk about your medical history. Any chronic illnesses or previous diagnoses?
+P: I have hypothyroidism, diagnosed about ten years ago. And I'm allergic to penicillin – it gives me a rash.
+D: Noted. Are you up to date with all your immunizations, including the influenza vaccine?
+P: I believe I am, although I might be due for the flu shot soon.
+D: We'll check on that for you. What about your family history? Any psychiatric illnesses in your family?
+P: My mother suffered from depression, and my uncle had bipolar disorder.
+D: Understood. Now, tell me a bit about yourself. Your occupation, lifestyle, and any habits like smoking or drinking?
+P: I'm a librarian, recently divorced, with two grown-up children. I enjoy reading and gardening. I've never smoked, and I drink socially, maybe a glass of wine once a week.
+D: Thank you for sharing that, Sophia. What medications are you currently taking?
+P: I take levothyroxine 100 mcg daily for my hypothyroidism. That's all.
+D: Got it. Now I'm going to go through a review of systems to make sure we're not missing anything. Any fever, chills, or significant weight loss recently?
+P: No, nothing like that.
+D: Any congestion, sore throat, or ear pain?
+P: No, I haven't had any issues there.
+D: Any chest pain or palpitations?
+P: No chest pain, but I've been feeling a bit more anxious lately, which causes some heart fluttering at times.
+D: How about cough or shortness of breath?
+P: No, my breathing has been fine.
+D: Any changes in urination or any blood in the urine?
+P: No, that's all normal.
+D: Any changes in bowel movements, nausea, vomiting, or abdominal pain?
+P: No, no gastrointestinal problems.
+D: Dizziness, headaches, memory issues, or confusion?
+P: I've had some headaches, but I think it's due to the stress.
+D: Any joint pains or muscle aches?
+P: No more than usual, just some occasional stiffness.
+D: Any intolerance to heat or cold?
+P: Not particularly, no.
+D: Let's move on to the physical exam. You appear to be in no acute distress. Psychiatrically, your affect is somewhat flat. For the head and neck exam, there's no redness or swelling. Your pupils are equal, round, and reactive to light. The cardiovascular exam reveals normal S1 and S2 sounds, no murmurs. Respiratory exam shows good air entry bilaterally, no wheezing. The gastrointestinal exam reveals normoactive bowel sounds, and your abdomen is soft and non-tender. Neurologically, you're oriented to time, place, and person, with intact short-term memory.
+
+Now, your vitals: blood pressure is 122 over 78, heart rate is 72 beats per minute, and respiratory rate is 16 breaths per minute. All within normal limits.
+
+Assessment and Plan: Based on your symptoms and family history, it's possible you're experiencing a major depressive episode. I would like to start you on an SSRI, such as sertraline, to help manage your symptoms. We'll start at a low dose and can adjust as needed. I also recommend you begin therapy with a psychologist to address the psychosocial aspects of your depression. We'll schedule a follow-up in four weeks to reassess your symptoms and medication effects. In the meantime, if you experience any worsening of your mood or develop thoughts of harm, please go to the emergency room immediately. Lastly, let's ensure you get your flu shot today before you leave. Any questions or concerns about this plan?
+
+P: No, doctor. I'm just relieved we have a plan. Thank you for your help.
+
+D: You're welcome, Sophia. Remember, we're here to support you through this. Take care, and I'll see you in a few weeks.
+
+P: Thanks again, Dr. Gomez. Goodbye.
+
+D: Goodbye, Sophia.
